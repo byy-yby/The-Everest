@@ -1,0 +1,123 @@
+[
+    {
+        "id": 0,
+        "name": "Base Camp",
+        "position": {
+            "x": -1.3,
+            "y": -0.49,
+            "z": 2.4
+        },
+        "height": "5,300 m / 17,388 ft",
+        "info": "The camp is the starting point for mountaineering activities and an important base for acclimatization to high altitude, with excellent logistical facilities and a view of the Khumbu Icefall, which is sunny during the day but with plummeting temperatures at night."
+    },
+    {
+        "id": 1,
+        "name": "Camp I",
+        "position": {
+            "x": -0.92,
+            "y": -0.13,
+            "z": 1.35
+        },
+        "height": "5,900 m / 19,357 ft",
+        "info": "Located at the top of the Khumbu Icefall, near the entrance to the West Col, the camp is surrounded by gentle terrain, with warm sunny days and still cold nights, making it the first major resting point after the climb."
+    },
+    {
+        "id": 2,
+        "name": "Camp II",
+        "position": {
+            "x": -0.61,
+            "y": 0.04,
+            "z": 0.61
+        },
+        "height": "6,400 m / 20,997 ft",
+        "info": "Located in the middle of the West Col, close to the Lozi wall, this camp is the main advance camp with better facilities for long rest and acclimatization, surrounded by spectacular views but changeable climate and occasional avalanche risk."
+    },
+    {
+        "id": 3,
+        "name": "Camp III",
+        "position": {
+            "x": -0.33,
+            "y": 0.28,
+            "z": 0.09
+        },
+        "height": "7,500 m / 24,606 ft",
+        "info": "The camp is erected on the steep Lozi wall, requiring technical climbing and rope protection, with extremely low temperatures and strong winds, and oxygen equipment is usually started in preparation for the impact on the South Col."
+    },
+    {
+        "id": 4,
+        "name": "Camp IV",
+        "position": {
+            "x": -0.53,
+            "y": 0.65,
+            "z": -0.26
+        },
+        "height": "7,950 m / 26,082 ft",
+        "info": "The camp is located in the South Col, is the final camp for the summit, in the “death zone”, the environment is extremely harsh, the air pressure and temperature are extremely low, the climbers usually leave at midnight and strive to return the same day."
+    },
+    {
+        "id": 5,
+        "name": "Base Camp",
+        "position": {
+            "x": -5.59,
+            "y": -0.5,
+            "z": 1.94
+        },
+        "height": "5,200 m / 17,060 ft",
+        "info": "The base camp on the south slope of Everest is located at the end of the Jombo Glacier on the south face of Everest. The base camp is open and flat, and the Jombo River flows gently through the base camp, making it convenient to get water."
+    },
+    {
+        "id": 6,
+        "name": "Middle Camp",
+        "position": {
+            "x": -4.23,
+            "y": -0.2,
+            "z": -0.12
+        },
+        "height": "5,800 m / 19,029 ft",
+        "info": "Excessive camp on the north slope of Everest is located on the glacier and gravel of the East Jombo Glacier, which is bounded on the east by the remnants of the Eastward Peak and on the west by the Hero Peak at an altitude of 6,900 meters. The camp is small, built on alluvial long formed by glacial movement, and the camp is covered with gravel."
+    },
+    {
+        "id": 7,
+        "name": "Forward Camp",
+        "position": {
+            "x": -2.32,
+            "y": 0.07,
+            "z": -0.43
+        },
+        "height": "6,500 m / 21,325 ft",
+        "info": "This camp is called “Devil's Camp” because of the strong high altitude sickness, which has knocked down many climbers. The location of this camp is very special, the east side is the 7016 meters to the east peak, the south side is the North Col of Mount Everest, and the west side is the 7,530 meters Zhangzi Peak. The ability to stay at the camp for a week is the “litmus test” of whether a climber can continue to climb upwards."
+    },
+    {
+        "id": 8,
+        "name": "Camp C1",
+        "position": {
+            "x": -2.09,
+            "y": 0.26,
+            "z": -0.04
+        },
+        "height": "7,208 m / 23,645 ft",
+        "info": "The campsite is a very narrow icy depression and, at the North Col the winds are particularly strong at high altitude. The camp is full of dark and light ice cracks, and there are very limited places to set up camp. Arriving at an elevation like the North Col campsite, climbers can begin to take in oxygen."
+    },
+    {
+        "id": 9,
+        "name": "Camp C2",
+        "position": {
+            "x": -1.73,
+            "y": 0.48,
+            "z": -0.3
+        },
+        "height": "7,790 m / 25,558 ft",
+        "info": "The camp is built on a 20-35 degree slope. There is a mixture of snow and ice rocks covered with gravel and lofty rocks. In a way, it can also be described as a transit camp, a transfer station for mountaineering supplies or a point where climbers train for highly acclimatised round trips."
+    },
+    {
+        "id": 10,
+        "name": "Camp C3",
+        "position": {
+            "x": -1.44,
+            "y": 0.8,
+            "z": -0.47
+        },
+        "height": "8,300 m / 27,231 ft",
+        "info": "This is a veritable camp built on a slope. The camp is on a 30-45 degree scree rock face, and the camp tents look like they are hanging from the wall. The summit of Mount Everest can be seen from here."
+    }
+]

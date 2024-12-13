@@ -1,0 +1,46 @@
+[
+    {
+        "id": 0,
+        "name": "South Slope Route",
+        "route": "BaseCamp -> Camp I -> Camp II -> Camp III -> Camp IV -> Everest",
+        "length": "27km",
+        "totalSummiteers": "7023",
+        "fatalityRate": "1.16%",
+        "deathToll": "195",
+        "info": "The route is logistically sound, with well-distributed acclimatization camps and relatively low technical difficulty, making it the first choice of most commercial climbing teams, but the crevasses and ice towers of the Khumbu Icefall present a high risk.",
+        "camera": {
+            "position": {
+                "x": -2.39,
+                "y": 1.68,
+                "z": 5.79
+            },
+            "rotation": {
+                "x": -0.28,
+                "y": -0.38,
+                "z": -0.11
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name": "North Slope Route",
+        "route": "BaseCamp -> Middle Camp -> Forward Camp -> Camp C1 -> Camp C2 -> Camp C3 -> Everest",
+        "length": "41km",
+        "totalSummiteers": "3633+",
+        "fatalityRate": "1.09%",
+        "deathToll": "110",
+        "info": "This route has a more stable climate, but the climb is more technically demanding, especially with the prolonged exposure to wind and snow at high altitude, which makes it more challenging for the climber's experience and fitness.",
+        "camera": {
+            "position": {
+                "x": -9.19,
+                "y": 3.08,
+                "z": 6.1
+            },
+            "rotation": {
+                "x": -0.47,
+                "y": -0.93,
+                "z": -0.38
+            }
+        }
+    }
+]

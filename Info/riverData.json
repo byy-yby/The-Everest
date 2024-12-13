@@ -1,0 +1,692 @@
+[
+    {
+      "altitude": 0,
+      "count": 168,
+      "reason": 12
+    },
+    {
+      "altitude": 0,
+      "count": 61,
+      "reason": 11
+    },
+    {
+      "altitude": 0,
+      "count": 39,
+      "reason": 4
+    },
+    {
+      "altitude": 0,
+      "count": 1,
+      "reason": 8
+    },
+    {
+      "altitude": 0,
+      "count": 8,
+      "reason": 13
+    },
+    {
+      "altitude": 0,
+      "count": 24,
+      "reason": 5
+    },
+    {
+      "altitude": 0,
+      "count": 7,
+      "reason": 10
+    },
+    {
+      "altitude": 0,
+      "count": 58,
+      "reason": 14
+    },
+    {
+      "altitude": 0,
+      "count": 12,
+      "reason": 6
+    },
+    {
+      "altitude": 0,
+      "count": 121,
+      "reason": 0
+    },
+    {
+      "altitude": 0,
+      "count": 1,
+      "reason": 9
+    },
+    {
+      "altitude": 0,
+      "count": 3,
+      "reason": 7
+    },
+    {
+      "altitude": 3500,
+      "count": 1,
+      "reason": 11
+    },
+    {
+      "altitude": 4000,
+      "count": 2,
+      "reason": 12
+    },
+    {
+      "altitude": 4000,
+      "count": 2,
+      "reason": 5
+    },
+    {
+      "altitude": 4000,
+      "count": 2,
+      "reason": 10
+    },
+    {
+      "altitude": 4000,
+      "count": 1,
+      "reason": 7
+    },
+    {
+      "altitude": 4000,
+      "count": 1,
+      "reason": 6
+    },
+    {
+      "altitude": 4000,
+      "count": 1,
+      "reason": 4
+    },
+    {
+      "altitude": 4500,
+      "count": 6,
+      "reason": 5
+    },
+    {
+      "altitude": 4500,
+      "count": 1,
+      "reason": 8
+    },
+    {
+      "altitude": 4500,
+      "count": 2,
+      "reason": 7
+    },
+    {
+      "altitude": 4500,
+      "count": 1,
+      "reason": 6
+    },
+    {
+      "altitude": 4500,
+      "count": 4,
+      "reason": 12
+    },
+    {
+      "altitude": 4500,
+      "count": 1,
+      "reason": 10
+    },
+    {
+      "altitude": 5000,
+      "count": 34,
+      "reason": 5
+    },
+    {
+      "altitude": 5000,
+      "count": 4,
+      "reason": 6
+    },
+    {
+      "altitude": 5000,
+      "count": 10,
+      "reason": 4
+    },
+    {
+      "altitude": 5000,
+      "count": 3,
+      "reason": 11
+    },
+    {
+      "altitude": 5000,
+      "count": 7,
+      "reason": 7
+    },
+    {
+      "altitude": 5000,
+      "count": 13,
+      "reason": 12
+    },
+    {
+      "altitude": 5000,
+      "count": 2,
+      "reason": 8
+    },
+    {
+      "altitude": 5000,
+      "count": 2,
+      "reason": 9
+    },
+    {
+      "altitude": 5000,
+      "count": 4,
+      "reason": 10
+    },
+    {
+      "altitude": 5000,
+      "count": 7,
+      "reason": 14
+    },
+    {
+      "altitude": 5500,
+      "count": 47,
+      "reason": 4
+    },
+    {
+      "altitude": 5500,
+      "count": 95,
+      "reason": 5
+    },
+    {
+      "altitude": 5500,
+      "count": 13,
+      "reason": 8
+    },
+    {
+      "altitude": 5500,
+      "count": 22,
+      "reason": 7
+    },
+    {
+      "altitude": 5500,
+      "count": 37,
+      "reason": 10
+    },
+    {
+      "altitude": 5500,
+      "count": 7,
+      "reason": 9
+    },
+    {
+      "altitude": 5500,
+      "count": 74,
+      "reason": 14
+    },
+    {
+      "altitude": 5500,
+      "count": 12,
+      "reason": 6
+    },
+    {
+      "altitude": 5500,
+      "count": 14,
+      "reason": 1
+    },
+    {
+      "altitude": 5500,
+      "count": 22,
+      "reason": 12
+    },
+    {
+      "altitude": 5500,
+      "count": 1,
+      "reason": 11
+    },
+    {
+      "altitude": 5500,
+      "count": 1,
+      "reason": 0
+    },
+    {
+      "altitude": 5500,
+      "count": 2,
+      "reason": 2
+    },
+    {
+      "altitude": 6000,
+      "count": 323,
+      "reason": 5
+    },
+    {
+      "altitude": 6000,
+      "count": 48,
+      "reason": 8
+    },
+    {
+      "altitude": 6000,
+      "count": 131,
+      "reason": 10
+    },
+    {
+      "altitude": 6000,
+      "count": 145,
+      "reason": 4
+    },
+    {
+      "altitude": 6000,
+      "count": 63,
+      "reason": 6
+    },
+    {
+      "altitude": 6000,
+      "count": 66,
+      "reason": 7
+    },
+    {
+      "altitude": 6000,
+      "count": 192,
+      "reason": 1
+    },
+    {
+      "altitude": 6000,
+      "count": 20,
+      "reason": 9
+    },
+    {
+      "altitude": 6000,
+      "count": 30,
+      "reason": 2
+    },
+    {
+      "altitude": 6000,
+      "count": 20,
+      "reason": 12
+    },
+    {
+      "altitude": 6000,
+      "count": 54,
+      "reason": 14
+    },
+    {
+      "altitude": 6000,
+      "count": 1,
+      "reason": 13
+    },
+    {
+      "altitude": 6000,
+      "count": 2,
+      "reason": 0
+    },
+    {
+      "altitude": 6000,
+      "count": 1,
+      "reason": 3
+    },
+    {
+      "altitude": 6500,
+      "count": 207,
+      "reason": 4
+    },
+    {
+      "altitude": 6500,
+      "count": 247,
+      "reason": 5
+    },
+    {
+      "altitude": 6500,
+      "count": 21,
+      "reason": 9
+    },
+    {
+      "altitude": 6500,
+      "count": 334,
+      "reason": 1
+    },
+    {
+      "altitude": 6500,
+      "count": 60,
+      "reason": 6
+    },
+    {
+      "altitude": 6500,
+      "count": 68,
+      "reason": 14
+    },
+    {
+      "altitude": 6500,
+      "count": 71,
+      "reason": 7
+    },
+    {
+      "altitude": 6500,
+      "count": 16,
+      "reason": 2
+    },
+    {
+      "altitude": 6500,
+      "count": 109,
+      "reason": 10
+    },
+    {
+      "altitude": 6500,
+      "count": 30,
+      "reason": 8
+    },
+    {
+      "altitude": 6500,
+      "count": 12,
+      "reason": 12
+    },
+    {
+      "altitude": 6500,
+      "count": 1,
+      "reason": 3
+    },
+    {
+      "altitude": 6500,
+      "count": 1,
+      "reason": 0
+    },
+    {
+      "altitude": 7000,
+      "count": 259,
+      "reason": 4
+    },
+    {
+      "altitude": 7000,
+      "count": 60,
+      "reason": 6
+    },
+    {
+      "altitude": 7000,
+      "count": 89,
+      "reason": 7
+    },
+    {
+      "altitude": 7000,
+      "count": 33,
+      "reason": 8
+    },
+    {
+      "altitude": 7000,
+      "count": 208,
+      "reason": 5
+    },
+    {
+      "altitude": 7000,
+      "count": 1906,
+      "reason": 1
+    },
+    {
+      "altitude": 7000,
+      "count": 19,
+      "reason": 14
+    },
+    {
+      "altitude": 7000,
+      "count": 31,
+      "reason": 2
+    },
+    {
+      "altitude": 7000,
+      "count": 72,
+      "reason": 10
+    },
+    {
+      "altitude": 7000,
+      "count": 12,
+      "reason": 9
+    },
+    {
+      "altitude": 7000,
+      "count": 2,
+      "reason": 3
+    },
+    {
+      "altitude": 7000,
+      "count": 3,
+      "reason": 12
+    },
+    {
+      "altitude": 7000,
+      "count": 1,
+      "reason": 13
+    },
+    {
+      "altitude": 7000,
+      "count": 3,
+      "reason": 0
+    },
+    {
+      "altitude": 7500,
+      "count": 35,
+      "reason": 6
+    },
+    {
+      "altitude": 7500,
+      "count": 299,
+      "reason": 4
+    },
+    {
+      "altitude": 7500,
+      "count": 132,
+      "reason": 5
+    },
+    {
+      "altitude": 7500,
+      "count": 29,
+      "reason": 10
+    },
+    {
+      "altitude": 7500,
+      "count": 187,
+      "reason": 1
+    },
+    {
+      "altitude": 7500,
+      "count": 3,
+      "reason": 2
+    },
+    {
+      "altitude": 7500,
+      "count": 22,
+      "reason": 8
+    },
+    {
+      "altitude": 7500,
+      "count": 76,
+      "reason": 7
+    },
+    {
+      "altitude": 7500,
+      "count": 2,
+      "reason": 12
+    },
+    {
+      "altitude": 7500,
+      "count": 8,
+      "reason": 9
+    },
+    {
+      "altitude": 7500,
+      "count": 13,
+      "reason": 14
+    },
+    {
+      "altitude": 7500,
+      "count": 2,
+      "reason": 3
+    },
+    {
+      "altitude": 8000,
+      "count": 1587,
+      "reason": 1
+    },
+    {
+      "altitude": 8000,
+      "count": 246,
+      "reason": 4
+    },
+    {
+      "altitude": 8000,
+      "count": 36,
+      "reason": 10
+    },
+    {
+      "altitude": 8000,
+      "count": 85,
+      "reason": 7
+    },
+    {
+      "altitude": 8000,
+      "count": 25,
+      "reason": 6
+    },
+    {
+      "altitude": 8000,
+      "count": 73,
+      "reason": 5
+    },
+    {
+      "altitude": 8000,
+      "count": 10,
+      "reason": 3
+    },
+    {
+      "altitude": 8000,
+      "count": 15,
+      "reason": 9
+    },
+    {
+      "altitude": 8000,
+      "count": 31,
+      "reason": 8
+    },
+    {
+      "altitude": 8000,
+      "count": 21,
+      "reason": 14
+    },
+    {
+      "altitude": 8000,
+      "count": 59,
+      "reason": 2
+    },
+    {
+      "altitude": 8000,
+      "count": 2,
+      "reason": 13
+    },
+    {
+      "altitude": 8000,
+      "count": 2,
+      "reason": 12
+    },
+    {
+      "altitude": 8000,
+      "count": 1,
+      "reason": 0
+    },
+    {
+      "altitude": 8500,
+      "count": 641,
+      "reason": 1
+    },
+    {
+      "altitude": 8500,
+      "count": 10,
+      "reason": 9
+    },
+    {
+      "altitude": 8500,
+      "count": 18,
+      "reason": 10
+    },
+    {
+      "altitude": 8500,
+      "count": 28,
+      "reason": 6
+    },
+    {
+      "altitude": 8500,
+      "count": 122,
+      "reason": 4
+    },
+    {
+      "altitude": 8500,
+      "count": 22,
+      "reason": 5
+    },
+    {
+      "altitude": 8500,
+      "count": 37,
+      "reason": 8
+    },
+    {
+      "altitude": 8500,
+      "count": 1,
+      "reason": 12
+    },
+    {
+      "altitude": 8500,
+      "count": 60,
+      "reason": 7
+    },
+    {
+      "altitude": 8500,
+      "count": 2,
+      "reason": 3
+    },
+    {
+      "altitude": 8500,
+      "count": 14,
+      "reason": 14
+    },
+    {
+      "altitude": 8500,
+      "count": 5,
+      "reason": 2
+    },
+    {
+      "altitude": 9000,
+      "count": 1489,
+      "reason": 1
+    },
+    {
+      "altitude": 9000,
+      "count": 1,
+      "reason": 9
+    },
+    {
+      "altitude": 9000,
+      "count": 3,
+      "reason": 10
+    },
+    {
+      "altitude": 9000,
+      "count": 3,
+      "reason": 3
+    },
+    {
+      "altitude": 9000,
+      "count": 14,
+      "reason": 4
+    },
+    {
+      "altitude": 9000,
+      "count": 6,
+      "reason": 8
+    },
+    {
+      "altitude": 9000,
+      "count": 3,
+      "reason": 14
+    },
+    {
+      "altitude": 9000,
+      "count": 9,
+      "reason": 7
+    },
+    {
+      "altitude": 9000,
+      "count": 2,
+      "reason": 5
+    },
+    {
+      "altitude": 9000,
+      "count": 1,
+      "reason": 2
+    },
+    {
+      "altitude": 9000,
+      "count": 1,
+      "reason": 6
+    }
+  ]
