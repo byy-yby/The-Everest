@@ -1,0 +1,67 @@
+.information {
+    width: 100%;
+    height: 100%;
+    
+    background-color: rgba(0, 0, 0, 0.85);
+    pointer-events: all;
+    &.active {
+        backdrop-filter: blur(16px) saturate(180%);
+        -webkit-backdrop-filter: blur(16px) saturate(180%);
+    }
+    
+    &:not(.active) {
+        backdrop-filter: blur(0px) saturate(100%);
+        -webkit-backdrop-filter: blur(0px) saturate(100%);
+    }
+    
+    transition: all 1s ease-in-out;
+}
+
+.container {
+    display: flex;  // 使用flex布局
+    justify-content: space-between;  // 两端对齐
+    align-items: center;  // 垂直居中
+    gap: 20px;  // 元素之间的间距
+    padding: 2%;
+}
+.page {
+    display: flex;
+    flex-direction: column;  // 纵向排布
+    padding: 3%;
+}
+
+.textContent {
+    color: #fff;
+    font-size: 12px;
+}
+
+.imageContent {
+    img {
+        height: auto;
+        width: 85%;
+    }
+    margin-top: 5%;
+}
+.imageContent2 {
+    img {
+        height: auto;
+        width: 100%;
+    }
+    margin-top: 5%;
+}
+
+.title {
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'Orbitron', sans-serif;
+    margin-left: 2%;
+}
+.smalltitle {
+    color: rgba(255, 255, 255, 0.891);
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Orbitron', sans-serif;
+    margin-top: 3%;
+    margin-bottom: 1%;
+}

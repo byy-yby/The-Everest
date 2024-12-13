@@ -1,0 +1,45 @@
+.dataScreen {
+    width: 100%;
+    height: 100%;
+    z-index: 99999;
+    pointer-events: auto;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-color: rgba(0, 0, 0, 0.85);
+
+    &.active {
+        backdrop-filter: blur(16px) saturate(180%) !important;
+        z-index: 1;
+    }
+
+    &:not(.active) {
+        backdrop-filter: blur(0px) saturate(100%) !important;
+        z-index: 1;
+    }
+
+    transition: all 1s ease-in-out;
+}
+.title {
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'Orbitron', sans-serif;
+    margin-left: 2%;
+}
+
+.text {
+    color: #c9e1f2a0;
+    font-size: 14px;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    text-align: justify;
+}
+.smalltitle {
+    color: rgba(98, 136, 224, 0.726);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Orbitron', sans-serif;
+    margin-bottom: 2%;
+    margin-left: 5%;
+    text-align: justify;
+}

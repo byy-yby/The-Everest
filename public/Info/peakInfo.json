@@ -1,0 +1,114 @@
+[
+    {
+        "id": 0,
+        "name": "Everest",
+        "position": {
+            "x": -1,
+            "y": 1,
+            "z": -0.12
+        },
+        "rank": "1st",
+        "height": "8,848 m / 29,029 ft",
+        "location": "27°59′18″N  86°55′31″E",
+        "firstClimbing": "1953",
+        "summitCount": "12,000+",
+        "info": "Mount Everest is the highest mountain in the world, located in the Himalayas on the border of Nepal and Tibet, China. It is a sacred mountain for the people of Tibet and Nepal, and is considered the abode of the gods.",
+        "history": "British climbers first attempted Everest via the north ridge from Tibet, reaching 8,320 m in 1922, the first climb above 8,000 m. In 1924, Mallory and Irvine's summit attempt ended in mystery. The first confirmed ascent was by Tenzing Norgay and Edmund Hillary in 1953 via the southeast ridge. China's team made the first north ridge ascent in 1960.",
+        "camera": {
+            "position": {
+                "x": -1.60,
+                "y": 1.88,
+                "z": 0.36
+            },
+            "rotation": {
+                "x": -1.38,
+                "y": -0.69,
+                "z": -1.28
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name": "Lhotse",
+        "position": {
+            "x": 0.02,
+            "y": 0.86,
+            "z": -0.36
+        },
+        "rank": "4th",
+        "height": "8,516 m / 27,939 ft",
+        "location": "27°57‘42’N 86°55‘58’E",
+        "firstClimbing": "1956",
+        "summitCount": "900+",
+        "info": "With Everest to the north and Nuptse to the west, Lhotse forms the apex of the massive horseshoe-shaped arc of the Everest massif. Despite the tremendous vertical relief of its South and Northeast Faces, it is the least prominent of the eight-thousanders due to the great height of the South Col between it and Everest. ",
+        "history": "In 1955, an international expedition led by Norman Dyhrenfurth attempted Lhotse, reaching 8,100 meters but was turned back by harsh conditions. The team created the first map of the Everest region. In 1956, Swiss climbers Ernst Reiss and Fritz Luchsinger made the first successful ascent. In 1970, Austrians Sepp Mayerl and Rolf Walter summited Lhotse Shar. In 1999, Czech climber Soňa Vomáčková became the first woman to summit Lhotse without supplemental oxygen. The highest unnamed point on Lhotse was first summited by Russian climbers in 2001.",
+        "camera": {
+            "position": {
+                "x": -0.30,
+                "y": 2.48,
+                "z": -0.12
+            },
+            "rotation": {
+                "x": -1.62,
+                "y": -0.12,
+                "z": -1.95
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "Nuptse",
+        "position": {
+            "x": -0.21,
+            "y": 0.61,
+            "z": 1.17
+        },
+        "rank": "22th",
+        "height": "7,864 m / 25,801 ft",
+        "location": "27°57′59″N 86°53′24″E",
+        "firstClimbing": "1961",
+        "summitCount": "200+",
+        "info": "The main peak was first climbed on May 16, 1961, by Dennis Davis and Sherpa Tashi.After a hiatus of almost 20 years, Nuptse again became the objective of mountaineers, with important routes being put up on its west, south, and north faces.",
+        "history": "Nuptse was first climbed in 1961 by Dennis Davis and Sherpa Tashi via the North Ridge. In 1979, Georges Bettembourg, Doug Scott, Alan Rouse, and Brian Hall summited the North Ridge. The first ascent of the West Ridge was in 1984 by Yvan Estienne and his team. In 1994, French climbers Michel Fauquet and Vincent Fine attempted the South Pillar. In 2008, Stéphane Benoist and Patrice Glairon-Rappaz climbed the South Face, followed by a new route in 2017 by Frédéric Degoulet, Benjamin Guigonnet, and Hélias Millerioux.",
+        "camera": {
+            "position": {
+                "x": 0.16,
+                "y": 1.12,
+                "z": 2.23
+            },
+            "rotation": {
+                "x": -0.46,
+                "y": 0.06,
+                "z": 0.03
+            }
+        }
+    },
+    {
+        "id": 3,
+        "name": "Changtse",
+        "position": {
+            "x": -2.37,
+            "y": 0.46,
+            "z": 0.3
+        },
+        "rank": "45th",
+        "height": "7,543 m / 24,747 ft",
+        "location": "28°01′31″N 86°54′51″E",
+        "firstClimbing": "1982",
+        "summitCount": "60+",
+        "info": "1924 George Mallory and Andrew Irvine first to set foot on Changtse. They climbed the east ridge of Changtse to reconnoiter camp sites on the East Rongbuk Glacier.",
+        "history": "Changtse was first climbed in 1924 by George Mallory and Andrew Irvine. In 1982, Johan Taks made the first unofficial ascent, followed by the first official ascent by a German team. Gino Casassa made the first solo ascent in 1983, and in 1986, a Chinese-Japanese expedition reached the summit. Ed Webster soloed the SE face in 1986, and in 1987, Australian climbers Rob Turner and Glen Nash summited via the north face.",
+        "camera": {
+            "position": {
+                "x": -3.91,
+                "y": 1.12,
+                "z": 1.43
+            },
+            "rotation": {
+                "x": -0.66,
+                "y": -1.14,
+                "z": -0.62
+            }
+        }
+    }
+]

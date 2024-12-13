@@ -1,0 +1,16 @@
+.logoContainer {
+    margin-left: 10px;
+    align-items: center;
+    flex-direction: column;
+    top: 40px;
+    left: 50px;
+}
+
+.logoContainer:hover {
+    cursor: pointer;
+}
+
+.logo {
+    width: 60px;
+    height: auto;
+}

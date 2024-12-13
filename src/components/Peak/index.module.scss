@@ -1,0 +1,45 @@
+.peak {
+    width: 400px;
+}
+
+.name {
+    color: #f3f3f3;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.height {
+    color: #cccccc;
+    font-size: 14px;
+    margin-bottom: 5px;
+    
+    span {
+        color: #dcdcdc;
+        font-weight: bold;
+    }
+}
+
+.rank {
+    color:#cccccc;
+    font-size: 14px;
+    margin-bottom: 5px;
+
+    span {
+        color: #dcdcdc;
+        font-weight: bold;
+    }
+}
+
+.info {
+    color:#cccccc;
+    font-size: 14px;
+    margin-bottom: 5px;
+    text-align: justify;      // 两端对齐
+    text-justify: inter-word; // 优化英文单词间的间距
+
+    span {
+        color: #dcdcdc;
+        font-weight: bold;
+    }
+}
