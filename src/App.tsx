@@ -1,4 +1,4 @@
-import { HashRouter, Route, Routes, Navigate } from "react-router-dom"
+import { HashRouter, Route, Routes } from "react-router-dom"
 import Earth from "./pages/Earth"
 import MountH from "./pages/MountH"
 import './App.css'
@@ -11,7 +11,6 @@ function App() {
                     <Routes>
                         <Route path="/" element={<Earth />} />
                         <Route path="/mountH" element={<MountH />} />
-                        <Route path="*" element={<Navigate to="/" replace />} />
                     </Routes>
                 </HashRouter>
             </div>
