@@ -1,7 +1,9 @@
 import classNames from "classnames";
 import style from "./index.module.scss";
 import northRoute from "../../assets/Images/NorthRoute.jpg"
-import southRoute from "../../assets/images/SouthRoute.jpg"
+import southRoute from "../../assets/Images/SouthRoute.jpg"
+
+
 import * as echarts from 'echarts';
 import { useEffect, useRef, useState } from "react";
 
