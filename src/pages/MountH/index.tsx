@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
@@ -6,7 +6,6 @@ import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
 import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
 
 import * as THREE from "three";
-import Stats from 'three/addons/libs/stats.module.js'
 
 import Meum from "../../components/Menu";
 import Camp from "../../components/Camp";
@@ -15,7 +14,7 @@ import Route from "../../components/Route";
 import PeakDetail from "../../components/PeakDetail";
 import RouteDetail from "../../components/RouteDetail";
 
-import bg from '../../assets/starfield.jpg';
+
 import campLabel from '../../assets/labels/camp.png';
 import peakLabel from '../../assets/labels/triangle.png';
 import { Button, ConfigProvider, Drawer, FloatButton, Popover } from "antd";
@@ -25,6 +24,7 @@ import { LineGeometry } from "three/addons/lines/LineGeometry.js";
 
 import { ReloadOutlined } from "@ant-design/icons";
 
+const base = process.env.NODE_ENV === 'production' ? '/The-Everest/' : '/';
 
 interface CampInfo {
     id: number;
@@ -207,7 +207,7 @@ const Mountain = () => {
     const InitScene = () => {
         scene = new THREE.Scene();
         const bgLoader = new THREE.TextureLoader();
-        const bgTexture = bgLoader.load(bg);
+        const bgTexture = bgLoader.load(`${base}/starfield.jpg`);
         bgTexture.colorSpace = THREE.SRGBColorSpace;
         scene.background = bgTexture;
         scene.environment = pmremGenerator.fromScene(new RoomEnvironment(), 0.04).texture;

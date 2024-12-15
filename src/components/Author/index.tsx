@@ -1,6 +1,4 @@
 import style from './index.module.scss';
-import { useEffect, useState } from 'react';
-import { Button } from 'antd';
 import classNames from 'classnames';
 
 export default function Author(props: { isActive: boolean }) {

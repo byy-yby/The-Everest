@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useNavigate } from 'react-router-dom';
 import * as echarts from 'echarts/core';
 import { CanvasRenderer } from 'echarts/renderers';
@@ -19,12 +19,6 @@ echarts.use([
     CanvasRenderer
 ]);
 
-// 在文件顶部添加类型定义
-interface ClimberData {
-    year: number;
-    coordinates: [number, number];  // 经纬度坐标
-    count: number;
-}
 
 export default function Page() {
     const chartRef = useRef<HTMLDivElement>(null);

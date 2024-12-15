@@ -86,7 +86,7 @@ export default function RouteDetail(
 
 const RoseChart = (props: { id: number }) => {
     const chartRef = useRef<HTMLDivElement>(null);
-    const [chart, setChart] = useState<echarts.ECharts>();
+    const [, setChart] = useState<echarts.ECharts>();
 
     const option = {
         backgroundColor: 'transparent',
@@ -137,7 +137,7 @@ const RoseChart = (props: { id: number }) => {
                 },
                 animationType: 'scale',
                 animationEasing: 'elasticOut',
-                animationDelay: function (idx: number) {
+                animationDelay: function () {
                     return Math.random() * 200;
                 }
             }

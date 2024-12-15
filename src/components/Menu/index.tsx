@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import {
     QuestionCircleOutlined,
     DesktopOutlined,
@@ -6,7 +6,7 @@ import {
     TeamOutlined
 } from '@ant-design/icons';
 import type { MenuProps } from 'antd';
-import { Button, Drawer, Menu } from 'antd';
+import { Drawer, Menu } from 'antd';
 
 import Introduction from '../Introduction';
 import DataScreen from '../DataScreen';
